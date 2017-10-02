@@ -47,7 +47,8 @@ public class HypotenuseCalculations {
      * @return 
      */
     
-    
+    //stubs are stupid
+     
     public static double hypotenuse(double x, double y){
         
         double side1 = x;
