@@ -33,6 +33,21 @@ public class HypotenuseCalculations {
     }
     
     
+    /**
+     * 
+     * Method hypotenuse
+     * Takes in two doubles and returns a hypotenuse calculated using
+     * the two values
+     * 
+     * Precondition: two double values
+     * Postcondition: one double value
+     * 
+     * @param x
+     * @param y
+     * @return 
+     */
+    
+    
     public static double hypotenuse(double x, double y){
         
         double side1 = x;
